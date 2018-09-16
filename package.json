@@ -12,6 +12,6 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node holly.js"
   },
-  "author": "Herve Jean-Baptiste, Van Vo, Candis Curd, Michelle Usi",
+  "author": "Herve Jean-Baptiste, Van Vo, Candis Curd, Michelle Samnte",
   "license": "GNU"
 }
